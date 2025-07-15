@@ -90,5 +90,5 @@ Loot: 5 gold and a glowing crystal.
 ---
 
 ## 🌟 Credits
-- Built by [**Rimsha Mukhtar**]
+- Built by **Rimsha Mukhtar**
 - Agent SDK + Chainlit powered game engine
